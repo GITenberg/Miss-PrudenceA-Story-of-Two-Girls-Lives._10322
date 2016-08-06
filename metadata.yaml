@@ -1,0 +1,30 @@
+_repo: Miss-PrudenceA-Story-of-Two-Girls-Lives._10322
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Conklin, Nathaniel, Mrs.
+    aliases:
+    - Drinkwater, Jennie M.
+    - Conklin, Jennie M. D. (Jennie Maria Drinkwater)
+    - Conklin, Jennie Maria Drinkwater
+    - Conklin, Mrs. Nathaniel
+    birthdate: 1841
+    deathdate: 1900
+    gutenberg_agent_id: '3467'
+    url: http://www.gutenberg.org/2009/agents/3467
+description: ''
+gutenberg_issued: '2003-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10322'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Conduct of life -- Fiction'
+- !lcsh 'Christian life -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: 'Miss Prudence: A Story of Two Girls'' Lives.'
+url: http://www.gutenberg.org/ebooks/10322
